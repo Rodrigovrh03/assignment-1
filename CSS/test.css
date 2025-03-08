@@ -1,0 +1,16 @@
+*{
+    border:solid 3px gray;
+}
+body{
+    color: darkblue;
+}
+section{
+    background-color: lightblue;
+    /* width: 60%;
+    padding: 50spx; */
+    margin: 50px;
+}
+p{
+    display: inline;
+    padding: 20x;
+}
